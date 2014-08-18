@@ -1,3 +1,9 @@
+### Solution to the problem
+
+The problem is described below. I have added two functions (defined in cachematrix.R) that solve the problem. I have also added a function that will create a hilbert Matrix (hilbert.R), and another parent script (testMatrix.R) that will allow you to test the functionality of the code in an easy way.
+
+Most of the code is pretty well documented I hope! 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
